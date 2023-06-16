@@ -12,5 +12,5 @@ message Product {
 }
 
 message ProductList {
-    repeated Product productEntity = 1;
+    repeated Product product_entity = 1;
 }
